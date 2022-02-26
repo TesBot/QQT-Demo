@@ -1,0 +1,121 @@
+{
+    "elemPath":"resources/flame/",
+    "bombPath":"resources/bomb/",
+    "bombExplode": {
+        "center": {
+            "frameList": [
+                "flame1_stand_0_0.png",
+                "flame1_stand_0_1.png",
+                "flame1_stand_0_2.png",
+                "flame1_stand_0_2.png",
+                "flame10_stand_0_4.png"
+            ],
+            "frameCount":5,
+            "frameDelay":50
+        },
+        "leftExplodeMid": {
+            "frameList": [
+                "flame2_stand_0_0.png",
+                "flame2_stand_0_1.png",
+                "flame2_stand_0_2.png",
+                "flame2_stand_0_3.png",
+                "flame2_stand_0_4.png",
+                "flame2_stand_0_5.png",
+                "flame2_stand_0_6.png"
+            ],
+            "frameCount":7,
+            "frameDelay":30
+        },
+        "leftExplodeTail": {
+            "frameList": [
+                "flame8_stand_0_0.png",
+                "flame8_stand_0_1.png",
+                "flame8_stand_0_2.png",
+                "flame8_stand_0_3.png",
+                "flame8_stand_0_4.png",
+                "flame8_stand_0_5.png",
+                "flame8_stand_0_6.png"
+            ],
+            "frameCount":7,
+            "frameDelay":30
+        },
+        "rightExplodeMid": {
+            "frameList": [
+                "flame4_stand_0_0.png",
+                "flame4_stand_0_1.png",
+                "flame4_stand_0_2.png",
+                "flame4_stand_0_3.png",
+                "flame4_stand_0_4.png",
+                "flame4_stand_0_5.png",
+                "flame4_stand_0_6.png"
+            ],
+            "frameCount":7,
+            "frameDelay":30
+        },
+        "rightExplodeTail": {
+            "frameList": [
+                "flame6_stand_0_0.png",
+                "flame6_stand_0_1.png",
+                "flame6_stand_0_2.png",
+                "flame6_stand_0_3.png",
+                "flame6_stand_0_4.png",
+                "flame6_stand_0_5.png",
+                "flame6_stand_0_6.png"
+            ],
+            "frameCount":7,
+            "frameDelay":30
+        },
+        "upExplodeMid": {
+            "frameList": [
+                "flame3_stand_0_0.png",
+                "flame3_stand_0_1.png",
+                "flame3_stand_0_2.png",
+                "flame3_stand_0_3.png",
+                "flame3_stand_0_4.png",
+                "flame3_stand_0_5.png",
+                "flame3_stand_0_6.png"
+            ],
+            "frameCount":7,
+            "frameDelay":30
+        },
+        "upExplodeTail": {
+            "frameList": [
+                "flame7_stand_0_0.png",
+                "flame7_stand_0_1.png",
+                "flame7_stand_0_2.png",
+                "flame7_stand_0_3.png",
+                "flame7_stand_0_4.png",
+                "flame7_stand_0_5.png",
+                "flame7_stand_0_6.png"
+            ],
+            "frameCount":7,
+            "frameDelay":30
+        },
+        "downExplodeMid": {
+            "frameList": [
+                "flame5_stand_0_0.png",
+                "flame5_stand_0_1.png",
+                "flame5_stand_0_2.png",
+                "flame5_stand_0_3.png",
+                "flame5_stand_0_4.png",
+                "flame5_stand_0_5.png",
+                "flame5_stand_0_6.png"
+            ],
+            "frameCount":7,
+            "frameDelay":30
+        },
+        "downExplodeTail": {
+            "frameList": [
+                "flame9_stand_0_0.png",
+                "flame9_stand_0_1.png",
+                "flame9_stand_0_2.png",
+                "flame9_stand_0_3.png",
+                "flame9_stand_0_4.png",
+                "flame9_stand_0_5.png",
+                "flame9_stand_0_6.png"
+            ],
+            "frameCount":7,
+            "frameDelay":30
+        }
+    }
+}

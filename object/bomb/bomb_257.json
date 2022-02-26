@@ -1,0 +1,11 @@
+{
+    "id":257,
+    "aminationList":[
+        "bomb257_stand_0_0.png",
+        "bomb257_stand_0_1.png",
+        "bomb257_stand_0_2.png",
+        "bomb257_stand_0_3.png"
+    ],
+    "aminationFrame": 4,
+    "aminationDelay": 60
+}
